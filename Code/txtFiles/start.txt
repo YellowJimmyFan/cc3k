@@ -1,0 +1,22 @@
+               
+                                ______     ______    ______    __       
+                              .' ___  |  .' ___  |  / ____ `. [  |  _   
+                             / .'   \_| / .'   \_|  `'  __) |  | | / ]  
+                             | |        | |         _  |__ '.  | '' <   
+                             \ `.___.'\ \ `.___.'\ | \____) |  | |`\ \  
+                              `.____ .'  `.____ .'  \______.' [__|  \_] 
+                                           
+
+               +--------------------------------------------------------------------------+
+               |                         ** Before you start **                           |
+               |1) movement: no, we, so, ea, nw, ne, sw, se                               |
+               |2) a + direction: attack Enemy                                            |
+               |3) u + direction: use Potion                                              |
+               |4) q(Quit)                                                                |
+               |5) r(Restart)                                                             |
+               |6) f(Freeze)                                                              |
+  Designed by: |                                                                          |
+    Chase An   |                         ** Choose your race **                           |
+    Kyle Li    |  d: Drow       s: Shade       v: Vampire       t: Troll       g: Goblin  |
+               |Default is Shade (if you leave it blank and press enter)                  |
+               +--------------------------------------------------------------------------+

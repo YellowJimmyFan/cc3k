@@ -1,0 +1,25 @@
+               
+                                ______     ______    ______    __       
+                              .' ___  |  .' ___  |  / ____ `. [  |  _   
+                             / .'   \_| / .'   \_|  `'  __) |  | | / ]  
+                             | |        | |         _  |__ '.  | '' <   
+                             \ `.___.'\ \ `.___.'\ | \____) |  | |`\ \  
+                              `.____ .'  `.____ .'  \______.' [__|  \_] 
+                                           
+              
+               +--------------------------------------------------------------------------+
+               |                         ** Before you start **                           |
+               |1) w(no), a(we), s(so), d(ea), t(nw), y(ne), g(sw), h(se)                 |
+               |2) game supports arrow keys!                                              |
+               |3) j + move key: attack Enemy                                             |
+               |4) k + move key: use Potion                                               |
+               |5) q(Quit)                                                                |
+               |6) r(Restart)                                                             |
+               |7) f(Freeze)                                                              |
+               |8) l(open merchant shop)                                                  |
+               |9) u(open your bag)                                                       |
+  Designed by: |                                                                          |
+    Chase      |                         ** Choose your race **                           |
+    Kyle       |  d: Drow       s: Shade       v: Vampire       t: Troll       g: Goblin  |
+               |Default is Shade (press any button to start)                              |
+               +--------------------------------------------------------------------------+
